@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Computer Science graduate <span>2014-2018</span></h2>
-                        <p>I pursued my undergraduate degree at Kampala International University and graduated with a Bachelor's of Computer Science Degree. I have taken online courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the recent years.</p>
+                        <p>I pursued my undergraduate degree at Kampala International University and graduated with a Bachelor's of Computer Science Degree. I have taken online courses like DSA, OOPs, React nanodegree, IOT, Web-Data Management over the recent years.</p>
                       </div>
                     </div>
                   </article>
