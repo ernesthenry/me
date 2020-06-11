@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at Hackers Yacht<span> June 2018 - September 2018</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of developing mobile apps using react native.</p>
+                        <p>I joined Hackers Yacht  as a Software Developer-Intern for a period of four months. My major part of the work was into the field of developing mobile apps using react native.</p>
                       </div>
                     </div>
                   </article>

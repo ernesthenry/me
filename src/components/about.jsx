@@ -14,7 +14,7 @@ export default class About extends Component {
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am a computer graduate student from Kampala  International University. I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years.</p>
-                    <p>I have started reflecting my thoughts about what i have learnt in the recent pst through writing articles on medium. </p>
+                    <p>I have started reflecting my thoughts about what i have learnt in the recent past through writing articles on medium. </p>
                     </div>
                 </div>
                 </div>
@@ -27,7 +27,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <h2 className="colorlib-heading">Here is some of my expertise</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript,React,HTML,CSS and Python.</p>
+                    <p>I have experience building websites using JavaScript,React, Node, HTML,CSS, Jquery, Ajax and Python.</p>
                 </div>
                 </div>
             </div>
