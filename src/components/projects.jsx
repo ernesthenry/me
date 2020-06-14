@@ -67,7 +67,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://ernesthenry.github.io/me" target="_blank" rel="noopener noreferrer">Personal portfolio</a></h3>
+											<h3><a href="#https://ernesthenry.github.io/me/" target="_blank" rel="noopener noreferrer">Personal portfolio</a></h3>
 											<span>Responsive, single page application for my portfolio</span>
 										
 										</div>
