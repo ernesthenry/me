@@ -28,8 +28,14 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
+											<a href='#projects'>
 											<h3><a href="work.html">Work 02</a></h3>
 											<span>Animation</span>
+											<span>blog app </span>
+
+											</a>
+											
+
 										
 										</div>
 									</div>
