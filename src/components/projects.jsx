@@ -41,8 +41,9 @@ export default class Projects extends Component {
 										<div className="con">
 											<h3><a href="https://github.com/ernesthenry/books-app/"  target="_blank" rel="noopener noreferrer">Bookshelf MyReads</a></h3>
 											<span>● Built a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. </span>
-										
-										</div>
+											<h3><a href="https://github.com/ernesthenry/books-app/">View Github 
+											
+											link</a></h3>										</div>
 									</div>
 								</div>
 							</div>
