@@ -69,7 +69,9 @@ export default class Projects extends Component {
 										<div className="con">
 											<h3><a href="https://github.com/ernesthenry/udacity-goals-todos">Goals-todos App</a></h3>
 											<span>This is todos and goals app where users  can add their weekly todos and goals.</span>
+											<h3><a href="https://github.com/ernesthenry/udacity-goals-todos">View Github 
 											
+											link</a></h3>
 										</div>
 									</div>
 								</div>
