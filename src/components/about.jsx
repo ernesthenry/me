@@ -25,31 +25,43 @@ export default class About extends Component {
         <section className="colorlib-about">
         <div className="colorlib-narrow-content">
             <div className="row">
-            <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+            <div className="col-md-4 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
                 <h2 className="colorlib-heading">Here is some of my expertise</h2>
             </div>
             </div>
             <div className="row row-pt-md">
-            <div className="col-md-6 text-center animate-box">
+            <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript,React, Node, HTML,CSS, Jquery, Ajax and Python.</p>
+                    <h3> Frontend </h3>
+                    <p>I have experience using  frontend technologies such as JavaScript,React, SASS, Bootstrap, HTML,CSS, Jquery and Ajax</p>
                 </div>
                 </div>
             </div>
-            <div className="col-md-6 text-center animate-box">
+            <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As i am coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>As i am coming from the Computer Science background, I have good grasp over fundamental concepts of Data Strucures and Algorithms.</p>
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-5">
+                <span className="icon">
+                    <i className="icon-data" />
+                </span>
+                <div className="desc">
+                    <h3>Backend</h3>
+                    <p>I have experience building backend using  flask, django and lately node. I have also worked with cloud backend services such as Firebase before.
+                    </p>
                 </div>
                 </div>
             </div>
