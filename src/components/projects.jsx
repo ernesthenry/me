@@ -68,7 +68,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Goals-todos App</a></h3>
-											<span>Illustration</span>
+											<span>This is todos and goals app where users  can add their weekly todos and goals.</span>
 											
 										</div>
 									</div>

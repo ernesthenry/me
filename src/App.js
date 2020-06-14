@@ -3,6 +3,7 @@ import './App.css';
 import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
 import About from './components/about'
+import Quote from './components/randomquote'
 import Projects from './components/projects'
 import Timeline from './components/timeline'
 
@@ -14,6 +15,7 @@ class App extends Component {
          	<Sidebar></Sidebar>
 				<div id="colorlib-main">
 					<Introduction></Introduction>
+          <Quote></Quote>
 					<About></About>
           <Projects></Projects>
 					<Timeline></Timeline>
