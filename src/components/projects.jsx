@@ -13,6 +13,28 @@ export default class Projects extends Component {
 							</div>
 						</div>
 						<div className="row">
+						<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href=" https://ernesthenry.github.io/reactinterface/ "  target="_blank" rel="noopener noreferrer">Pet medicine appointment app</a></h3>
+											<span>Single page, responsive frontend  app for making appointments for pet medicine</span>
+										
+										</div>
+									</div>
+								</div>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="https://www.prowebin.co.ug/" target="_blank" rel="noopener noreferrer">Prowebin company website</a></h3>
+											<span>Digital solutions  company</span>
+										
+										</div>
+									</div>
+								</div>
+							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
 									<div className="desc">
@@ -52,17 +74,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href=" https://ernesthenry.github.io/reactinterface/ "  target="_blank" rel="noopener noreferrer">Pet medicine appointment app</a></h3>
-											<span>Single page, responsive frontend  app for making appointments for pet medicine</span>
-										
-										</div>
-									</div>
-								</div>
-							</div>
+						
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
@@ -74,17 +86,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="https://www.prowebin.co.ug/" target="_blank" rel="noopener noreferrer">Prowebin company website</a></h3>
-											<span>Digital solutions  company</span>
-										
-										</div>
-									</div>
-								</div>
-							</div>
+							
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
