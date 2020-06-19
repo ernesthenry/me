@@ -2,10 +2,6 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "npm": "6.14.4",
-    "node": "14.4.0"
-  },
   "homepage": "https://ernesthenry.github.io/me",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -23,7 +19,6 @@
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "npm install --only=dev && npm install && npm run build"
   },
   "eslintConfig": {
     "extends": "react-app"
