@@ -15,6 +15,46 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Full stack Developer - BPOSeats<span> July 2023 - Present</span></h2>
+                        <li>Developed and deployed dynamic web applications: Successfully designed, developed, and deployed several dynamic web applications using Django and Vue.js, combining the power of Django for backend logic and Vue.js for interactive frontend experiences.</li>
+
+                        <li>Implemented real-time features with WebSockets: Integrated real-time features such as live chat, notifications, or collaborative editing using WebSockets with Django Channels and Vue.js, enhancing user engagement and interactivity.</li>
+
+                        <li>Designed RESTful APIs for frontend-backend communication: Designed and implemented RESTful APIs using Django Rest Framework, enabling seamless communication between the frontend Vue.js components and backend Django services.</li>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Full stack Developer - CIM Innovations<span> March 2021 - October 2022</span></h2>
+                        <li>Engineered and launched resilient web applications tailored for diverse payment gateways: Proficiently architected, coded, and released multiple web applications leveraging PHP as the backend technology. Prioritized robustness, scalability, and security throughout the development lifecycle, ensuring seamless operation and trustworthiness for users.</li>
+                        <li>Integrated frontend and backend systems: Seamlessly integrated frontend technologies such as HTML, CSS, JavaScript, and modern frameworks like React or Angular with PHP backend systems, ensuring smooth user experiences and efficient data processing. </li>
+                        <li>Implemented RESTful APIs: Designed and implemented RESTful APIs using PHP , facilitating seamless communication between frontend and backend systems and enabling third-party integrations.</li>
+
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Banking Officer - Equity Bank Uganda Limited<span> June 2019 - March 2020</span></h2>
+                        <li>Successfully processed 45 checks in 1 hour, during a staff shortage incident on a busy day at the bank.<br />Met all reconciliation deadlines between the years 2019 and 2020.</li>                      
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
