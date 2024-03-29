@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As i am coming from the Computer Science background, I have good grasp over fundamental concepts of Data Strucures and Algorithms.</p>
+                    <p>With a strong Computer Science background, I have good grasp over fundamental concepts of Data Strucures and Algorithms.</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Backend</h3>
-                    <p>I have experience using backend technologies such as flask, django and lately node. I have also worked with cloud backend services such as Firebase before.
+                    <p>I have experience using backend technologies such as flask, django and PHP. I have also worked with cloud backend services such as Firebas.
                     </p>
                 </div>
                 </div>
