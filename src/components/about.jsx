@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Backend</h3>
-                    <p>I have experience using backend technologies such as flask, django and PHP. I have also worked with cloud backend services such as Firebas.
+                    <p>I have experience using backend technologies such as Django, Flask, Python and PHP. I have also worked with cloud backend services such as Firebase.
                     </p>
                 </div>
                 </div>
