@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3> Frontend </h3>
-                    <p>I have experience using  frontend technologies such as JavaScript, Vue, React, Jquery, Tailwind, SASS, Bootstrap, HTML,CSS, Jquery and Ajax</p>
+                    <p>I have experience using  frontend technologies such as JavaScript, Vue, React, Tailwind, SASS, Bootstrap, HTML,CSS, Jquery and Ajax</p>
                 </div>
                 </div>
             </div>
