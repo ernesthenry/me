@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineering Fellow - Headstarter<span> July 2024 - Septemper 2024</span></h2>
-                        <li>Built 5+ Ai Apps and API using Nextjs, OpenAI, Pinecone, StripeAPI  with 98% accuracy as seen by 1000 users</li>
+                        <h2>Software Engineering Fellow - Headstarter, Remote USA<span> July 2024 - Septemper 2024</span></h2>
+                        <li>Built 5+ Ai Apps and API using Nextjs, OpeAnAI, Pinecone, StripeAPI  with 98% accuracy as seen by 1000 users</li>
 
                         <li>Developed projects from design to deployment leading 4+ engineering fellows using MVC design patterns</li>
 
@@ -37,7 +37,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Data Analytics Extern - Webacy<span> May 2024 - June 2024</span></h2>
+                        <h2>Data Analytics Extern - Webacy, Remote USA<span> May 2024 - June 2024</span></h2>
                         <li>Data Labelling: Built foundational understanding: Gained in-depth knowledge of data labeling, its importance, and demonstrated skills as a data labeling specialist.</li>
                         <li>Web3 and smart contracts: Familiarized with key concepts related to Web3 and smart contracts. Identified and labeled over 500 smart contract vulnerabilities based on predefined risk tags, ensuring data readiness for analysis.</li>
                         <li>Validated the accuracy of data labels applied by peers, achieving a consistency rate of 95% across over 1,000 data points, ensuring high-quality datasets for further analysis</li>
@@ -55,7 +55,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Full stack Developer - BPOSeats<span> July 2023 - Present</span></h2>
+                        <h2>Full stack Developer - BPOSeats, Remote<span> July 2023 - Present</span></h2>
                         <li>Implemented real-time features with WebSockets: Integrated real-time features such as live chat, notifications, and collaborative editing using WebSockets with Django Channels and Vue.js, boosting user retention by 15% and reducing user response time by 40%.</li>
 
                         <li>Designed RESTful APIs for frontend-backend communication: Designed and implemented over 20 RESTful APIs using Django Rest Framework, enabling seamless communication between the frontend Vue.js components and backend Django services, and reducing data transfer latency by 20%.</li>
@@ -71,7 +71,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Full stack Developer - CIM Innovations<span> March 2021 - October 2022</span></h2>
+                        <h2>Full stack Developer - CIM Innovations, Remote USA<span> March 2021 - October 2022</span></h2>
                         <li>Engineered and launched resilient web applications tailored for diverse payment gateways: Proficiently architected, coded, and released over 15 web applications leveraging PHP as the backend technology. Prioritized robustness, scalability, and security throughout the development lifecycle, resulting in a 30% increase in transaction success rates and zero reported security breaches.</li>
                         <li>Integrated frontend and backend systems: Seamlessly integrated frontend technologies such as HTML, CSS, JavaScript, and modern frameworks like React or Angular with PHP backend systems, enhancing user experience and reducing page load times by 25%. Achieved a 40% improvement in overall system performance and user satisfaction.</li>
                         <li>Implemented RESTful APIs: Designed and implemented over 30 RESTful APIs using PHP, facilitating seamless communication between frontend and backend systems and enabling third-party integrations. This resulted in a 50% increase in data processing efficiency and expanded functionality for external services.</li>
