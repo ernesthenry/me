@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3> Frontend </h3>
-                    <p>I have experience using  frontend technologies such as JavaScript,React, SASS, Bootstrap, HTML,CSS, Jquery and Ajax</p>
+                    <p>I have experience using  frontend technologies such as JavaScript, React, Next, Vue, Angular, Bootstrap, Jquery and Ajax</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Backend</h3>
-                    <p>I have experience using backend technologies such as flask, django and PHP. I have also worked with cloud backend services such as Firebas.
+                    <p>I have experience using backend technologies such as Celery, Node, .NET, flask, django and laravel.
                     </p>
                 </div>
                 </div>
